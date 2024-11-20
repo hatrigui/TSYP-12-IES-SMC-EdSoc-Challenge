@@ -31,7 +31,7 @@ This repository contains the code and resources for the Chess Robot Challenge pr
 
 - **`Clustering.ipynb`** and **`prediction_outcome.ipynb`**:
   - Notebooks supporting advanced data analysis and model performance evaluation.
-- **`IllegalMove_GameFeedback`**:
+- **`IllegalMove_GameFeedback.ipynb`**:
   - Illegal Move Detection: Validates moves as "Legal" or "Illegal" using python-chess.
   - Game Feedback: Offers actionable insights and encouragement based on move quality.
   - Machine Learning Integration: Trains a Random Forest Classifier to predict game outcomes from metadata.
